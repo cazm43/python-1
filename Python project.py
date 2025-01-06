@@ -1,1 +1,6 @@
-print("Hello World")
+def new_func():
+    print("Hello World")
+
+
+
+
